@@ -1,0 +1,15 @@
+F:\ApkEpProject\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+F:\ApkEpProject\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+F:\ApkEpProject\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+F:\ApkEpProject\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+F:\ApkEpProject\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+F:\ApkEpProject\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+F:\ApkEpProject\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.FileDisplayForm.resources
+F:\ApkEpProject\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.MethodsForm.resources
+F:\ApkEpProject\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.BackToCompileFrom.resources
+F:\ApkEpProject\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.MainForm1.resources
+F:\ApkEpProject\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.FileDisplayForm_new.resources
+F:\ApkEpProject\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+F:\ApkEpProject\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.shellForm.resources
+F:\ApkEpProject\WindowsFormsApplication1\bin\Debug\ICSharpCode.SharpZipLib.dll
+F:\ApkEpProject\WindowsFormsApplication1\bin\Debug\Ionic.Zip.dll
